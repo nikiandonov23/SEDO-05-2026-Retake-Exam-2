@@ -1,0 +1,1 @@
+Testing if Jenkins will start.IT SHOULD NOT START ANY ACTION
